@@ -2,7 +2,8 @@
 
 Class Filme {
   public string $nome;
-  public int $anoLancamento;
-  public string $genero;
+  public int $anoLancamento; 
   public float $nota;
+  public string $genero;
+
 }
