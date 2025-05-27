@@ -19,7 +19,7 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 
 | Dia | Tópico/Projeto | Status |
 |-----|----------------|--------|
-| 1   | Introdução a POO | ⏳ Em andamento |
+| 1   | Introdução a POO | ✅ Concluído |
 | 99   | _Em breve..._  | ⏰ Em breve... |
 ---
 

@@ -4,7 +4,7 @@ require './src/model/Filme.php';
 
 echo "Bem vindo(a) ao Screen Match \n";
 
-$filme = new Filme();
+$filme = new Filme('Thor', 2021,'heroi');
 // $filme->nome = 'Thor - Ragnarok';
 // $filme->anoLancamento = '2021';
 // $filme->genero = 'super-heroi';
