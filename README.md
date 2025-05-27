@@ -19,11 +19,11 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 
 | Dia | Tópico/Projeto | Status |
 |-----|----------------|--------|
-| 1   | Introdução a POO | ❌ Não iniciado |
-| 99   | _Em breve..._  | ⏳ Em breve... |
+| 1   | Introdução a POO | ⏳ Em andamento |
+| 99   | _Em breve..._  | ⏰ Em breve... |
 ---
 
-status: ✅ Concluído ,  ⏳ Em breve e ❌ Não iniciado ...
+status: ✅ Concluído ,  ⏰ Em breve , ⏳ Em andamento e ❌ Não iniciado ...
 
 ## 📁 Estrutura do Projeto esta sendo dividido por branch no github
 
