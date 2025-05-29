@@ -13,13 +13,21 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 - Evoluir gradualmente com foco em boas práticas e conceitos modernos
 - Compartilhar o progresso com a comunidade
 
----            
+---
+
+## 📝 material
+
+  - Alura 📘
+  - Rocketseat 🚀
+
+---
 
 ## 🗓 Progresso
 
 | Dia | Tópico/Projeto | Status |
 |-----|----------------|--------|
 | 1   | Introdução a POO | ✅ Concluído |
+| 2   | Continuação de POO, Erança + Polimorfismo | ✅ Concluído |
 | 99   | _Em breve..._  | ⏰ Em breve... |
 ---
 
