@@ -27,8 +27,8 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 | Dia | Tópico/Projeto | Status |
 |-----|----------------|--------|
 | 1   | Introdução a POO | ✅ Concluído |
-| 2   | Continuação de POO, Erança + Polimorfismo | ✅ Concluído |
-| 3   | Avançando com Orientação a Objetos com PHP | ⏳ Em andamento |
+| 2   | Continuação de POO, Herança + Polimorfismo | ✅ Concluído |
+| 3   | Avançando com Orientação a Objetos com PHP, Namespace + Autoload + Metodos abstratos| ⏳ Em andamento |
 | 99   | _Em breve..._  | ⏰ Em breve... |
 ---
 
