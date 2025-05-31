@@ -16,7 +16,7 @@ class ContaCorrente extends Conta
             return;
         }
 
-        $this->saca($valorATransferir);
-        $contaDestino->deposita($valorATransferir);
+        $this->sacar($valorATransferir);
+        $contaDestino->depositar($valorATransferir);
     }
 }
