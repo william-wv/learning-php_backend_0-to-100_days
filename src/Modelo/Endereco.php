@@ -2,7 +2,7 @@
 
 namespace Alura\Banco\Modelo;
 
-class Endereco
+final class Endereco
 {
     private $cidade;
     private $bairro;
