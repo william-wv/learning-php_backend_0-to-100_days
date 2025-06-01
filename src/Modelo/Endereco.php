@@ -44,8 +44,14 @@ class Endereco
 
     // __call
     // __clone
-    public function __get(string $nomeAtributo){
-        $metodo = 'recupera'.ucfirst($nomeAtributo);
+    public function __get(string $nomeAtributo)
+    {
+        $metodo = 'recupera' . ucfirst($nomeAtributo);
         return $this->$metodo();
+    }
+
+    public function __set(string $nomeAtributo,string $valor)
+    {
+        $this->$nomeAtributo = $valor;
     }
 }
