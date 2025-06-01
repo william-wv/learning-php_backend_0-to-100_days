@@ -2,11 +2,11 @@
 
 namespace Alura\Banco\Service;
 
-use Alura\Banco\Modelo\Funcionario\Funcionario;
+use Alura\Banco\Modelo\Funcionario\Diretor;
 
 class Autentificador {
   
-  public function tentaLogin(Funcionario $diretor, string $senha): void 
+  public function tentaLogin(Diretor $diretor, string $senha): void 
   {
     if ($diretor->podeAutenticar($senha)) {
       echo "Ok, usuário logado!";
