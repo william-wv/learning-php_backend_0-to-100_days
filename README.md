@@ -29,7 +29,8 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 | 1   | Introdução a POO | ✅ Concluído |
 | 2   | Continuação de POO, Herança + Polimorfismo | ✅ Concluído |
 | 3   | Avançando com Orientação a Objetos com PHP, Namespace + Autoload + Metodos abstratos| ✅ Concluído |
-| 4   |  Avançando com Orientação a Objetos com PHP 2, Polimorfismo + classes de serviço e métodos mágicos | ⏰ Em breve... |
+| 4   |  Avançando com Orientação a Objetos com PHP 2, Polimorfismo + classes de serviço e métodos mágicos | ✅ Concluído |
+| 5   |  PHP Laravel, aplicação MVC + entendendo o framework | ⏰ Em breve... |
 | 99   | _Em breve..._  | ⏰ Em breve... |
 ---
 
