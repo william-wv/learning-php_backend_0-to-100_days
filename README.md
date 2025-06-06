@@ -30,7 +30,7 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 | 2   | Continuação de POO, Herança + Polimorfismo                                                        | ✅ Concluído |
 | 3   | Avançando com Orientação a Objetos com PHP, Namespace + Autoload + Metodos abstratos              | ✅ Concluído |
 | 4   | Avançando com Orientação a Objetos com PHP 2, Polimorfismo + classes de serviço e métodos mágicos | ✅ Concluído |
-| 5   | PHP e PDO: trabalhando com bancos de dados (busca e inserção)                                     | ✅ Concluído |
+| 5   | PHP e PDO: trabalhando com bancos de dados (busca e inserção)                                     | ✅ Concluído | 
 | 99   | _Em breve..._                                                                                     | ⏰ Em breve... |
 ---
 
