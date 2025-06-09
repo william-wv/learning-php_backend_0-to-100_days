@@ -18,8 +18,9 @@ class Student
     public function defineId(int $id): void
     {
         if (!is_null($this->id)) {
-            throw new \DomainException('Você só pode definir o ID uma vez.');
+            throw new \DomainException('Você só pode definir o ID uma vez');
         }
+
         $this->id = $id;
     }
 
@@ -33,7 +34,7 @@ class Student
         return $this->name;
     }
 
-    public function putName(string $newName): void
+    public function changeName(string $newName): void
     {
         $this->name = $newName;
     }

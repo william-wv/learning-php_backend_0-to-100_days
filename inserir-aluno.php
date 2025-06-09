@@ -1,26 +1,23 @@
 <?php
 
 use Alura\Pdo\Domain\Model\Student;
-use Alura\Pdo\Infra\Persistence\ConnectionCreator;
+
 require_once 'vendor/autoload.php';
 
-$pdo = ConnectionCreator::createConnection();
+$pdo = \Alura\Pdo\Infrastructure\Persistence\ConnectionCreator::createConnection();
 
 $student = new Student(
-    NULL,
-    "Flavia Vitoria",
-    new \DateTimeImmutable('2005-10-15')
+    null,
+    "Patricia Freitas",
+    new \DateTimeImmutable('1986-10-25')
 );
+$name = $student->name();
 
-//$sqlInsert = "INSERT INTO students (name , birth_date) VALUES ('{$student->name()}','{$student->birthDate()->format('Y-m-d')}');";
-$sqlInsert = "INSERT INTO students (name , birth_date) VALUES (:name, :birth_date);";
-
+$sqlInsert = "INSERT INTO students (name, birth_date) VALUES (:name, :birth_date);";
 $statement = $pdo->prepare($sqlInsert);
-$statement->bindValue(1, $student->name());
-$statement->bindValue(2, $student->birthDate()->format('Y-m-d'));
+$statement->bindParam(':name', $student->name());
+$statement->bindValue(':birth_date', $student->birthDate()->format('Y-m-d'));
 
-
-    if ($statement->execute()){
-        echo "Aluno inserido com sucesso!";
-    }
-//var_dump($pdo->exec($sqlInsert));
+if ($statement->execute()) {
+    echo "Aluno incluído";
+}

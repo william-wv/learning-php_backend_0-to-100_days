@@ -1,24 +1,30 @@
 <?php
 
 use Alura\Pdo\Domain\Model\Student;
-use Alura\Pdo\Infra\Persistence\ConnectionCreator;
-use \Alura\Pdo\Infra\Repository\PdoStudentRepository;
+use Alura\Pdo\Infrastructure\Persistence\ConnectionCreator;
+use Alura\Pdo\Infrastructure\Repository\PdoStudentRepository;
 
 require_once 'vendor/autoload.php';
 
 $connection = ConnectionCreator::createConnection();
-$studentRepo = new PdoStudentRepository($connection);
+$studentRepository = new PdoStudentRepository($connection);
 
-// processos de def da turma
+// realizo processos de definição da turma
 
 $connection->beginTransaction();
 
-$aStudent = new Student(30,'Will', new DateTimeImmutable('2000-01-01'));
-$studentRepo->save($aStudent);
+$aStudent = new Student(
+    null,
+    'Nico Steppat',
+    new DateTimeImmutable('1985-05-01'),
+);
+$studentRepository->save($aStudent);
 
-$bStudent = new Student(31,'flavi', new DateTimeImmutable('2000-01-01'));
-$studentRepo->save($bStudent);
+$anotherStudent = new Student(
+    null,
+    'Sergio Lopes',
+    new DateTimeImmutable('1985-05-01'),
+);
+$studentRepository->save($anotherStudent);
 
-// inserir alunos
-//$connection->commit();
 $connection->rollBack();
