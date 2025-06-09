@@ -39,14 +39,14 @@ $statement = $pdo->query('SELECT * FROM students;');
 
 //fatchAll para buscar todos
 
-//$studentDataList  = $statement->fetchALL($pdo::FETCH_ASSOC);
-//$statementList = [];
-//foreach ($studentDataList as $studentData){
-//    $statementList[] = new Student(
-//        $studentData['id'],
-//        $studentData['name'],
-//        new DateTimeImmutable($studentData['birth_date']),
-//    );
-// var_dump($statementList);
-//}
+$studentDataList  = $statement->fetchALL($pdo::FETCH_ASSOC);
+$statementList = [];
+foreach ($studentDataList as $studentData){
+    $statementList[] = new Student(
+        $studentData['id'],
+        $studentData['name'],
+        new DateTimeImmutable($studentData['birth_date']),
+    );
+ var_dump($statementList);
+}
 
