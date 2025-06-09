@@ -32,7 +32,7 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 | 4   | Avançando com Orientação a Objetos com PHP 2, Polimorfismo + classes de serviço e métodos mágicos | ✅ Concluído   |
 | 5   | PHP e PDO: trabalhando com bancos de dados (busca e inserção)                                     | ✅ Concluído   |
 | 6   | PHP e PDO: SQL Injection , abordagens , parametros e boas praticas + inj.Dep                      | ✅ Concluído    |
-| 6   | PHP e PDO: controle de transações e  tratamento de erros                                          | ⏳ Em andamento   |
+| 7   | PHP e PDO: controle de transações e  tratamento de erros                                          | ⏳ Em andamento   |
 | 99  | _Em breve..._                                                                                     | ⏰ Em breve... |
 ---
 
