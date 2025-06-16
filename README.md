@@ -33,7 +33,9 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 | 5   | PHP e PDO: trabalhando com bancos de dados (busca e inserção)                                     | ✅ Concluído   |
 | 6   | PHP e PDO: SQL Injection , abordagens , parametros e boas praticas + inj.Dep                      | ✅ Concluído   |
 | 7   | PHP e PDO: controle de transações e  tratamento de erros                                          | ✅ Concluído   |
-| 8   | PHP Laravel: Criando uma aplicação com MCV - Conhecendo Laravel                                   | ⏰ Em breve... |
+| 8   | PHP Laravel: Criando uma aplicação com MCV - Conhecendo Laravel  - rota ola                       | ✅ Concluído   |
+| 9   | PHP Laravel: Criando uma aplicação com MCV - Controller                                           | ⏰ Em breve... |
+
 | 99  | _Em breve..._                                                                                     | ⏰ Em breve... |
 ---
 
