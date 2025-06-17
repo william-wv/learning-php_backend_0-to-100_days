@@ -1,12 +1,12 @@
 # Learning-php-backend-0-to-100-days
-# 🚀 Desafio: 100 Dias de PHP
+🚀 Desafio: 100 Dias de PHP
 
 Bem-vindo(a) ao meu desafio pessoal de **100 dias aprendendo PHP**!  
 A ideia é evoluir diariamente, praticando e registrando o que aprendo com a linguagem PHP — desde os fundamentos até conceitos mais avançados. Este repositório é meu diário de estudos. 😄
 
 ---
 
-## 🎯 Objetivo
+🎯 Objetivo
 
 - Aprender e praticar PHP por **100 dias consecutivos**
 - Criar projetos pequenos, scripts e exercícios diários
@@ -15,14 +15,14 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 
 ---
     
-## 📝 material
+📝 material
 
   - Alura 📘
   - Rocketseat 🚀
 
 ---
 
-## 🗓 Progresso
+🗓 Progresso
 
 | Dia | Tópico/Projeto                                                                                    | Status        |
 |-----|---------------------------------------------------------------------------------------------------|---------------|
@@ -42,13 +42,13 @@ status: ✅ Concluído ,  ⏰ Em breve , ⏳ Em andamento e ❌ Não iniciado ..
 
 ---
 
-## Para anotaçoes sobre o laravel em aulas acesse:
+Para anotaçoes sobre o laravel em aulas acesse:
 
 <https://www.notion.so/php-2142dc54a4508025acabd08720e4ecf6?source=copy_link>
 
 ---
 
-## 📁 Estrutura do Projeto esta sendo dividido por branch no github
+📁 Estrutura do Projeto esta sendo dividido por branch no github
 
 ```bash
 📂 learning-php-backend-0-to-100-days
