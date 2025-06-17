@@ -14,7 +14,7 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 - Compartilhar o progresso com a comunidade
 
 ---
-
+    
 ## 📝 material
 
   - Alura 📘
@@ -40,6 +40,10 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 ---
 
 status: ✅ Concluído ,  ⏰ Em breve , ⏳ Em andamento e ❌ Não iniciado ...
+
+## Para anotaçoes sobre o laravel em aulas acesse:
+
+<https://www.notion.so/php-2142dc54a4508025acabd08720e4ecf6?source=copy_link>
 
 ## 📁 Estrutura do Projeto esta sendo dividido por branch no github
 
