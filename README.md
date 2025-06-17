@@ -15,7 +15,7 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 
 ---
 
-<h1> 📝 material </h1>
+<h1> 📝 Material </h1>
 
   - Alura 📘
   - Rocketseat 🚀
