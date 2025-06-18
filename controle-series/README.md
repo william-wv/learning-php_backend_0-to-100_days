@@ -7,6 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Generate
+
+U need use in terminal
+
+➜ php artisan key:generate
+ 
+and to start server
+
+➜ php artisan serve --host=0.0.0.0 --port=8000
+
+## Routes
+
+/
+/series
+/series-criar
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:

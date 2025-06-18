@@ -23,3 +23,5 @@ Route::get('/ola',function() {
 });
 
 Route::get('/series' , [SeriesController::class , 'listarSeries']);
+
+Route::get('/series/criar' , [SeriesController::class , 'criarSeries']);

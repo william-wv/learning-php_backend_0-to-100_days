@@ -17,4 +17,9 @@ class SeriesController
 
         return view('series.index', ['series' => $series]);
     }
+    public function criarSeries(Request $request)
+    {
+        return view('series.create');
+    }
+
 }
