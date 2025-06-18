@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use GuzzleHttp\Psr7\Request;
+use Illuminate\Http\Request;
 
 class SeriesController
 {
