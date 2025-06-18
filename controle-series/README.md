@@ -21,7 +21,7 @@ and to start server
 
 /
 /series
-/series-criar
+/series/criar
 
 ## About Laravel
 

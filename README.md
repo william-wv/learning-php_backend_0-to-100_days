@@ -24,19 +24,20 @@ A ideia é evoluir diariamente, praticando e registrando o que aprendo com a lin
 
 <h1> 🗓 Progresso </h1>
 
-| Dia | Tópico/Projeto                                                                                    | Status        |
-|-----|---------------------------------------------------------------------------------------------------|---------------|
-| 1   | Introdução a POO                                                                                  | ✅ Concluído   |
-| 2   | Continuação de POO, Herança + Polimorfismo                                                        | ✅ Concluído   |
-| 3   | Avançando com Orientação a Objetos com PHP, Namespace + Autoload + Metodos abstratos              | ✅ Concluído   |
-| 4   | Avançando com Orientação a Objetos com PHP 2, Polimorfismo + classes de serviço e métodos mágicos | ✅ Concluído   |
-| 5   | PHP e PDO: trabalhando com bancos de dados (busca e inserção)                                     | ✅ Concluído   |
-| 6   | PHP e PDO: SQL Injection , abordagens , parametros e boas praticas + inj.Dep                      | ✅ Concluído   |
-| 7   | PHP e PDO: controle de transações e  tratamento de erros                                          | ✅ Concluído   |
-| 8   | PHP Laravel: Criando uma aplicação com MCV - Conhecendo Laravel  - rota ola                       | ✅ Concluído   |
-| 9   | PHP Laravel: Criando uma aplicação com MCV - Controller                                           | ✅ Concluído   |
-| 10  | PHP Laravel: Criando uma aplicação com MCV - View                                                 | ⏰ Em breve... |
-| 99  | _Em breve..._                                                                                     | ⏰ Em breve... |
+| Dia | Tópico/Projeto                                                                                    | Status         |
+|-----|---------------------------------------------------------------------------------------------------|----------------|
+| 1   | Introdução a POO                                                                                  | ✅ Concluído    |
+| 2   | Continuação de POO, Herança + Polimorfismo                                                        | ✅ Concluído    |
+| 3   | Avançando com Orientação a Objetos com PHP, Namespace + Autoload + Metodos abstratos              | ✅ Concluído    |
+| 4   | Avançando com Orientação a Objetos com PHP 2, Polimorfismo + classes de serviço e métodos mágicos | ✅ Concluído    |
+| 5   | PHP e PDO: trabalhando com bancos de dados (busca e inserção)                                     | ✅ Concluído    |
+| 6   | PHP e PDO: SQL Injection , abordagens , parametros e boas praticas + inj.Dep                      | ✅ Concluído    |
+| 7   | PHP e PDO: controle de transações e  tratamento de erros                                          | ✅ Concluído    |
+| 8   | PHP Laravel: Criando uma aplicação com MCV - Conhecendo Laravel  - rota ola                       | ✅ Concluído    |
+| 9   | PHP Laravel: Criando uma aplicação com MCV - Controller                                           | ✅ Concluído    |
+| 10  | PHP Laravel: Criando uma aplicação com MCV - View                                                 | ✅ Concluído    |
+| 11  | PHP Laravel: Criando uma aplicação com MCV - Models                                               | ⏳ Em andamento |
+| 99  | _Em breve..._                                                                                     | ⏰ Em breve...  |
 
 status: ✅ Concluído ,  ⏰ Em breve , ⏳ Em andamento e ❌ Não iniciado ...
 
