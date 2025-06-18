@@ -8,4 +8,9 @@
     @endforeach
 </ul>
 
+
+    <script>
+        const series = {{  Js::from($series)  }};
+    </script>
+
 </x-layout>
