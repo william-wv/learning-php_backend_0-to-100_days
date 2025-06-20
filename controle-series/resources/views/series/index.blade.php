@@ -3,7 +3,7 @@
 <ul>
     @foreach ($series as $serie)
         <li>
-            {{ $serie }}
+            {{ $serie->name }}
         </li>
     @endforeach
 </ul>

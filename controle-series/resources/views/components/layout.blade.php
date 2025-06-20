@@ -8,6 +8,10 @@
     <title>{{$title}}</title>
 </head>
 <body>
+
+<a href="/series/criar">Criar serie</a>
+
+
 <h1>{{$title}}</h1>
 
 {{  $slot  }}
